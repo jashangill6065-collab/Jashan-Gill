@@ -1,0 +1,6 @@
+{
+  "name": "CrimeScene",
+  "description": "Turn your home or backyard into an interactive crime scene with secret character roles, hidden motives, and a thrilling murder mystery plot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
